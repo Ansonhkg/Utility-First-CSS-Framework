@@ -7,7 +7,7 @@ Testing Tailwind Utility-First framework
 ## 1b. Using Yarn
 `yarn add tailwindcss --dev`
 
-## 2. Create a Tailwind config file tailwind.ks
+## 2. Create a Tailwind config file tailwind.js
 `./node_modules/.bin/tailwind init tailwind.js`
 
 
