@@ -1,8 +1,8 @@
 Testing Tailwind Utility-First framework
 
-# 1. Installation
+# Installation
 ## 1. Using npm
-`npm install tailwindcss --save-dev
+`npm install tailwindcss --save-dev`
 
 ## 1b. Using Yarn
 `yarn add tailwindcss --dev`
